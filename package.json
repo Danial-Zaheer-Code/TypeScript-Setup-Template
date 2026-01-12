@@ -1,0 +1,26 @@
+{
+  "name": "typescript_data_structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danial-Zaheer-Code/TypeScript_Data_Structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danial-Zaheer-Code/TypeScript_Data_Structures/issues"
+  },
+  "homepage": "https://github.com/Danial-Zaheer-Code/TypeScript_Data_Structures#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.0.5",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6"
+  }
+}
