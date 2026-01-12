@@ -64,7 +64,7 @@ This repo is a template for starting a Simple TypeScript Project right away.
 - Place all the test file inside __tests__ folder and each test file name should end with .test.ts.
 
 # To use it for your project
-- Run this command:
+- Run this command from the root folder of cloned project using command prompt:
   ```bash
   rmdir /s /q .git
 - This will delete the .git folder if it exists.
