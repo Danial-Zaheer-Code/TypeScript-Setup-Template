@@ -1,5 +1,5 @@
 {
-  "name": "typescript_setup_tempate",
+  "name": "Project-Name",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Danial-Zaheer-Code/TypeScript-Setup-Template.git"
+    "url": "Project URL"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Danial-Zaheer-Code/TypeScript-Setup-Template/issues"
+    "url": "Project issues url"
   },
-  "homepage": "https://github.com/Danial-Zaheer-Code/TypeScript-Setup-Template#readme",
+  "homepage": "Project readme url",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "@types/node": "^25.0.5",
