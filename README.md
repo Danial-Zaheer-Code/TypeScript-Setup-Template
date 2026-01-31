@@ -39,7 +39,7 @@ This repo is a template for starting a Simple TypeScript Project right away.
   ```bash
   npx tsc
 
-- Both files will be compiled and put into ./dist/ folder.
+- Both files will be compiled and put into **dist** folder.
 
 
 ### Run the code
